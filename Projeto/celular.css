@@ -1,0 +1,31 @@
+
+  @media screen and (min-width: 1250px) {
+
+    h1 {
+      font-size: 72px;
+    }
+  
+    .container__botao {
+      font-size: 24px;
+    }
+  
+    .texto__paragrafo {
+      font-size: 32px;
+    }
+  
+    .container__imagem-pessoa {
+      display: block;
+    }
+  
+    .container__conteudo {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-around;
+    }
+  
+    .container__informacoes {
+      padding: 3rem;
+    }
+  }
+  
